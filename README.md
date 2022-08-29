@@ -1,2 +1,2 @@
-# Meu-Site-
-Meu site pesssoal. primeira atividade do Proa
+# Meu-Site
+Meu site pesssoal, com seis abas de conteúdos para deescobrir mais sobre minha pessoa.
