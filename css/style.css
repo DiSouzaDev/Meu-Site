@@ -36,7 +36,8 @@ body {
 }
 
 .r:hover {
-  background: rgb(72, 158, 197);
+  background: rgb(170, 170, 255);
+  color: black;
 }
 
 li {
@@ -45,7 +46,7 @@ li {
   transition: 3s;
 }
 
-img {
+.img {
   width: 550px;
   height: 300px;
   border-radius: 40px;
@@ -53,8 +54,20 @@ img {
   user-select: none;
 }
 
-img:hover {
+.img:hover {
   border: 2px black solid;
+}
+
+.imgs {
+  width: 550px;
+  height: 300px;
+  border-radius: 40px;
+  padding: 2px;
+  user-select: none;
+}
+
+.imgs:hover{
+
 }
 
 #menu {
@@ -90,5 +103,11 @@ img:hover {
 }
 
 .texto {
+  padding: 10px;
+}
+
+.aud{
+  width: 500px;
+  height: 50px;
   padding: 10px;
 }
